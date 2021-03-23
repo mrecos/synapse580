@@ -7,9 +7,10 @@
 				"language": "sql"
 			},
 			"currentConnection": {
-				"name": "sqlpool1",
-				"type": "SqlPool"
-			}
+				"poolName": "XBLSQLpool",
+				"databaseName": "XBLSQLpool"
+			},
+			"resultLimit": 5000
 		},
 		"type": "SqlQuery"
 	}
